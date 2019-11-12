@@ -1,4 +1,4 @@
-# My First Android by Kotlin App
+# My First Android App by Kotlin
 
 ## Reference
 - [Kotlinで始めるAndroidアプリ入門（後編） - Qiita](https://qiita.com/k-ysd/items/48aaf6de44e878c87c13)
